@@ -1,8 +1,12 @@
 # aseprite2scml
 This is a bit of hackish code to convert animations created in Aseprite into Spriter animations for further markup. This was made to convert an animation for my pipeline, if yours requires a different layout you may need to tweak the code.
+The hard work of opening the Aseprite file is done with Florian Dormont's [py_aseprite](https://github.com/Eiyeron/py_aseprite) .
 
-## usage
+## Install
+Just clone this repository including sub-modules.
 
+## Usage
+The script needs to be run from the command line:
 ```shell
 usage: aseprite2scml.py [-h] [--output OUTPUT] [--ofs_x OFS_X] [--ofs_y OFS_Y] input
 
