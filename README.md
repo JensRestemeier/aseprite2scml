@@ -1,5 +1,5 @@
 # aseprite2scml
-This is a bit of hackish code to convert animations created in Aseprite into Spriter animations for further markup. This was made to convert an animation for my pipeline, if yours requires a different layout you may need to tweak the code.
+This is a bit of hackish code to convert animations created in [Aseprite](https://www.aseprite.org/) into [Spriter](https://brashmonkey.com/spriter-pro/) animations for further markup. This was made to convert an animation for my pipeline, if yours requires a different layout you may need to tweak the code.
 The hard work of opening the Aseprite file is done with Florian Dormont's [py_aseprite](https://github.com/Eiyeron/py_aseprite) .
 
 ## Install
